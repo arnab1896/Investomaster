@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Investomaster</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="res_list">https://www.reddit.com/r/stocks/\nhttps://www.reddit.com/r/investing/\nhttp://www.investopedia.com/\nhttp://www.wikihow.com/Invest\nhttps://github.com/PhilJay/MPAndroidChart\nfinanace.google.com\nhttps://www.quandl.com\ndevelopers.google.com
+</string>
+</resources>
